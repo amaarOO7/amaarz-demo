@@ -1,6 +1,5 @@
 # amaarz-demo
 
 This is my first git repo.
-
 <br>
-Author - Amaar Banka edited line
+Author - Amaar Banka

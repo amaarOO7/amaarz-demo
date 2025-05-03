@@ -1,4 +1,3 @@
 This is my first git repository
 <br>
-Author - Ammar Banka.
-git commit 
+Author - Ammar Banka
